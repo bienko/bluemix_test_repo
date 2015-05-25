@@ -1,3 +1,3 @@
 #bluemix_test_repo
 
-My first Github repo.
+My first Github repository.
